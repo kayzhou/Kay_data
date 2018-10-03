@@ -2,8 +2,6 @@
 
 python => 2.7
 
-股市数据爬虫 (tushare)
-
 股市情感数据 (MongoDB)
 
 微博数据 (Hbase)
